@@ -1,5 +1,5 @@
 # Summary
 
 * [Welcome](welcome.md)
-* Second Chapter
+* [Second Chapter](second_chapter.md)
 
